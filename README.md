@@ -1,6 +1,6 @@
 # My Dapp Project
 
-A simple `next` app to interact with the `smart contract` through `Metamask` wallet. The network of the wallet should be hardhat/localhost network.
+A simple `NextJs` app to interact with the `smart contract` through `Metamask` wallet. The network of the wallet should be hardhat/localhost network.
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
